@@ -1,0 +1,23 @@
+{
+  "name": "workoutcreator",
+  "version": "1.0.0",
+  "description": "This app will create yout workouts plan",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/start1810/WorkoutCreator.git"
+  },
+  "author": "StriganovArtyom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/start1810/WorkoutCreator/issues"
+  },
+  "homepage": "https://github.com/start1810/WorkoutCreator#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
