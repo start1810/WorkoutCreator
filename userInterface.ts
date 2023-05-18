@@ -10,7 +10,6 @@ interface IUser {
   aetHR?: number,
   aetTempo?: number,
   maxVO2?: number,
-
 };
 
 const myProfile: IUser = {
