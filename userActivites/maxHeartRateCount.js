@@ -10,5 +10,5 @@ export const maxHeartRateCount = (profile) => {
     const age = currentMonth < birthdayMonth ? yearDiff - 1 : yearDiff;
 
     const HRRmax = 220 - age;
-    return HRRmax;
+    return HRRmax
 }  
