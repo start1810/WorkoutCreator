@@ -24,5 +24,5 @@ export const workoutsSort = ( workoutsList ) => {
         });
       }
     }
-    return listWeeks;
+    return listWeeks
   }
