@@ -11,4 +11,4 @@ const workout1 = {
 };
 const workoutListTest = [ workout1 ];
 
-console.log(countWeekValue(workoutListTest))
+console.log(countWeekValue(workoutListTest));
